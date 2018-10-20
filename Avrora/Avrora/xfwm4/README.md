@@ -1,18 +1,14 @@
 ## Avrora
 
 ## Installation
-- copy Avrora-yellow folder into ~/.themes/ folder
+- just copy to the .themes folder and you're ready to use that
 
 ## Editing title colors
-run update color like this :
+run update color like this : (format color without #)
 ```
-sh update-color.sh bgcolor fgcolor
+sh colorize.sh bgcolor fgcolor
 ```
 example :
 ```
-sh update-color.sh 112233 ffffff
-```
-or :
-```
-sh update-color.sh #112233 #ffffff
+sh colorize.sh 112233 ffffff
 ```

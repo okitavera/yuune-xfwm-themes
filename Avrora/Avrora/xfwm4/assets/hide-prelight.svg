@@ -51,14 +51,8 @@
   <rect
      width="32"
      height="32"
-     fill="#e1b756"
+     fill="#dbdbdf"
      id="rect4221" />
-  <rect
-     width="32"
-     height="1"
-     fill="#FFFFFF"
-     fill-opacity="0.1"
-     id="rect4223" />
   <circle
      style="opacity:0.07999998;fill:#ffffff"
      id="circle4225"
@@ -73,5 +67,5 @@
      y="-1.0631073"
      rx="1.1162629"
      transform="rotate(45)"
-     style="fill:#393939;stroke-width:0.5315538" />
+     style="fill:#212122;stroke-width:0.5315538" />
 </svg>

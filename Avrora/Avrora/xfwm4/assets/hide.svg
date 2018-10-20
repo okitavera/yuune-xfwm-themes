@@ -51,14 +51,8 @@
   <rect
      width="32"
      height="32"
-     fill="#e1b756"
+     fill="#dbdbdf"
      id="rect4221" />
-  <rect
-     width="32"
-     height="1"
-     fill="#FFFFFF"
-     fill-opacity="0.1"
-     id="rect4223" />
   <rect
      id="rect3724"
      width="13.288845"
@@ -67,5 +61,5 @@
      y="-1.0631068"
      rx="1.1162629"
      transform="rotate(44.999999)"
-     style="fill:#393939;stroke-width:0.5315538" />
+     style="fill:#212122;stroke-width:0.5315538" />
 </svg>

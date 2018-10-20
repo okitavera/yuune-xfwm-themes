@@ -1,15 +1,5 @@
 #!/bin/bash
 pushd $(dirname $(readlink -f $0))
-    ln -sf assets/border.svg bottom-active.svg
-    ln -sf assets/border.svg bottom-inactive.svg
-    ln -sf assets/border.svg bottom-left-active.svg
-    ln -sf assets/border.svg bottom-left-inactive.svg
-    ln -sf assets/border.svg bottom-right-active.svg
-    ln -sf assets/border.svg bottom-right-inactive.svg
-    ln -sf assets/border.svg left-active.svg
-    ln -sf assets/border.svg left-inactive.svg
-    ln -sf assets/border.svg right-active.svg
-    ln -sf assets/border.svg right-inactive.svg
     ln -sf assets/close-prelight.svg close-prelight.svg
     ln -sf assets/close-prelight.svg close-pressed.svg
     ln -sf assets/close.svg close-active.svg
@@ -57,8 +47,20 @@ pushd $(dirname $(readlink -f $0))
     ln -sf assets/title.svg title-4-inactive.svg
     ln -sf assets/title.svg title-5-active.svg
     ln -sf assets/title.svg title-5-inactive.svg
-    ln -sf assets/title.svg top-left-active.svg
-    ln -sf assets/title.svg top-left-inactive.svg
-    ln -sf assets/title.svg top-right-active.svg
-    ln -sf assets/title.svg top-right-inactive.svg
+
+    ln -sf assets/blank.svg bottom-active.svg
+    ln -sf assets/blank.svg bottom-inactive.svg
+    ln -sf assets/blank.svg left-active.svg
+    ln -sf assets/blank.svg left-inactive.svg
+    ln -sf assets/blank.svg right-active.svg
+    ln -sf assets/blank.svg right-inactive.svg
+    ln -sf assets/blank.svg bottom-left-active.svg
+    ln -sf assets/blank.svg bottom-left-inactive.svg
+    ln -sf assets/blank.svg bottom-right-active.svg
+    ln -sf assets/blank.svg bottom-right-inactive.svg
+    ln -sf assets/blank.svg top-left-active.svg
+    ln -sf assets/blank.svg top-left-inactive.svg
+    ln -sf assets/blank.svg top-right-active.svg
+    ln -sf assets/blank.svg top-right-inactive.svg
+
 popd

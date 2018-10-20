@@ -51,22 +51,15 @@
   <rect
      y="0"
      x="0"
-     style="fill:#e1b756"
+     style="fill:#dbdbdf"
      width="32"
      height="32"
      id="rect4221" />
-  <rect
-     y="0"
-     x="0"
-     style="fill:#ffffff;fill-opacity:0.1"
-     width="32"
-     height="1"
-     id="rect4223" />
   <g
      id="g81"
      transform="matrix(0.73094451,0,0,0.73094461,4.3048892,4.1066643)">
     <rect
-       style="fill:#393939;stroke-width:0.72721487"
+       style="fill:#212122;stroke-width:0.72721487"
        transform="rotate(45)"
        rx="1.5271511"
        y="-1.2626716"
@@ -79,12 +72,12 @@
        cy="21.403229"
        cx="10.867954"
        id="path3741-6"
-       style="fill:#393939;stroke-width:0.69612592" />
+       style="fill:#212122;stroke-width:0.69612592" />
     <circle
        r="1.7084206"
        cy="11.139144"
        cx="21.132042"
        id="path3741-6-7"
-       style="fill:#393939;stroke-width:0.69612592" />
+       style="fill:#212122;stroke-width:0.69612592" />
   </g>
 </svg>

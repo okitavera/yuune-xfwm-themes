@@ -3,16 +3,22 @@ gallery of my xfwm themes
 
 # Previews :
 
-##### Avrora : theme with bright title bar
+##### InVSBL : Theme with invisible buttons, hover to see the buttons
+![InVSBL](previews/invsbl.png)
+
+##### InVSBL-Dark : dark version
+![InVSBL-Dark](previews/invsbl-dark.png)
+
+##### Avrora : Xfwm with unique button
 ![Avrora](previews/avrora.png)
 
-##### Avrora-Dark : theme with dark title bar
+##### Avrora-Dark : dark version
 ![Avrora-Dark](previews/avrora-dark.png)
 
-##### Avrora-Ein : theme with bright title bar, thick border and rounded corner
+##### Avrora-Ein : thick border and rounded corner
 ![Avrora-Ein](previews/avrora-ein.png)
 
-##### Avrora-Ein-Dark : theme with dark title bar, thick border and rounded corner
+##### Avrora-Ein-Dark : dark title bar, thick border and rounded corner
 ![Avrora-Ein-Dark](previews/avrora-ein-dark.png)
 
 

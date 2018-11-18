@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-pushd $(dirname $(readlink -f $0))/assets
+pushd $(dirname $(readlink -f $0))/../xfwm4/assets
 rm -rf scour
 mkdir scour
 for i in *.svg

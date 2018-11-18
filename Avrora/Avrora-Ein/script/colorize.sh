@@ -1,16 +1,16 @@
 #!/bin/sh
 if [[ -z $2 ]]; then
     echo " "
-    echo 'usage: update-color.sh "bg color" "fg color"'
+    echo 'usage: colorize.sh "bg color" "fg color"'
     echo " "
-    echo 'example: update-color.sh "112233" "efefef"'
+    echo 'example: colorize.sh "112233" "efefef"'
     echo 'or :'
-    echo 'example: update-color.sh "#112233" "#efefef"'
+    echo 'example: colorize.sh "#112233" "#efefef"'
     echo " "
     exit 1
 fi
 
-pushd $(dirname $(readlink -f $0))/assets
+pushd $(dirname $(readlink -f $0))/../xfwm4/assets
     accentHolder=$(cat colorholder | head -n1)
     baseHolder=$(cat colorholder | tail -n1)
     [[ "$(echo $1 | grep -e '^\#' | wc -l)" == 1 ]] && base="$1" || base="#$1"
